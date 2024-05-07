@@ -50,6 +50,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Screenshots
 
 Here are some screenshots showcasing the application:
+### Figma Design 
 
 ### Initial Route
 
