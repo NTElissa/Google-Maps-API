@@ -52,6 +52,8 @@ This project is licensed under the [MIT License](LICENSE).
 Here are some screenshots showcasing the application:
 ### Figma Design 
 ![Screenshot 2024-05-07 202827](https://github.com/NTElissa/Google-Maps-API/assets/122989293/7cbff295-8385-4d04-9d78-0ac7c069b0df)
+![Screenshot 2024-05-07 203733](https://github.com/NTElissa/Google-Maps-API/assets/122989293/4cba47c1-ede8-46d8-a1d5-fe173c93ad8d)
+
 
 ### Initial Route
 
